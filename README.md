@@ -7,5 +7,5 @@ This is a tester for the superhero code challenge
 ## To run
 - cd into the cloned repository directory and run the following command
 ```
-bash tester.sh -Paster your repository here without including the dashes-
+bash tester.sh -paste your repository here without including the dashes-
 ```
